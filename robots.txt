@@ -1,0 +1,12 @@
+# robots.txt for http://www.blurr-media.com/
+
+User-agent: *
+Disallow: /beta3/
+Disallow: /beta2/
+Disallow: /web/
+Disallow: /images/
+Disallow: /design/
+Disallow: /files/
+Disallow: /old/
+Disallow: /admin/
+Disallow: /admin2/
